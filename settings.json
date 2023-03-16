@@ -1,5 +1,5 @@
 {
     "default_project":"mirror_dgn",
-    "start_command":"battle",
+    "start_command":"on_start",
     "confidence":0.7
 }
