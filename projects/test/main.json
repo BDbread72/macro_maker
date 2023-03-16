@@ -1,0 +1,27 @@
+{
+    "project":{
+        "name":"Test Project",
+        "desc":"this is test project",
+        "version":"0.01"
+    },
+    "macro":{
+        "commands":{
+            "on_start":[
+                "click",
+                "move_to 200 300",
+                "run test"
+            ],
+            "test":[
+                "console 'wa sans!'",
+                "mouse_to_img gift",
+                "click"
+            ]
+        },
+        "imgs":{
+            "gift":"test_gift.PNG"
+        }
+    },
+    "vars":{
+        "test":0
+    }
+}
