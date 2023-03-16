@@ -15,10 +15,10 @@ Macro!는 여러가지 게임이나 작업에서 반복적인 작업을 조건�
 }
 ```
 
-*click*
+*click*<br>
 마우스를 클릭합니다.
 
-*mouse_to_img [image]*\n
+*mouse_to_img [image]*
 [image]의 이미지를 화면에서 감지하여, 해당 위치로 이동합니다. [image]에는 imgs에서 작성하여 저장해야 합니다.
 
 *wait [time]*
