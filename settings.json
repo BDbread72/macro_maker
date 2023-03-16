@@ -1,5 +1,5 @@
 {
-    "default_project":"mirror_dgn",
+    "default_project":"test",
     "start_command":"on_start",
     "confidence":0.7
 }
