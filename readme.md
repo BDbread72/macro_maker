@@ -67,17 +67,13 @@ var은 매크로 실행중에 사용되는 변수입니다. JSON파일의 vars�
 변수 [name]의 값을 [value]와 비교합니다. 결과에 따라 다른 명령어를 실행합니다.<br><br>
 
 *var compare [name1] [comparace] [name2] [True_command] [False_command]*<br>
-변수 [name1]의 값과 [name2]의 값을 비교합니다. 결과에 따라 다른 명령어를 실행합니다.<br>
-+[comparance_value] : 비교값 정리 입니다.<br><br>
+변수 [name1]의 값과 [name2]의 값을 비교합니다. 결과에 따라 다른 명령어를 실행합니다.<br><br>
 
 *var cal [name] [calculation] [number]*<br>
-[name] 변수를 [calculation]에 따라 [number]를 적용합니다. (미 제작)<br>
-+[calculation_value]<br><br>
+[name] 변수를 [calculation]에 따라 [number]를 적용합니다. (미 제작)<br><br>
 
-[Limbus-Company]: https://limbuscompany.kr/<br>
 림버스 컴퍼니 전용/관련 명령어 입니다.<br><br>
 
-[comparance_value]: 비교값_정리입니다.<br>
 == : 같음<br>
 != : 다름<br>
 > : 큼<br>
